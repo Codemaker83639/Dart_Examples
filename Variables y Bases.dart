@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   // Variables y tipos de datos
   int edad = 30;
